@@ -13,9 +13,9 @@ class ProfileRepositoryImpl : ProfileRepository {
 
         val profile = Profile(
             id = "123",
-            name = ProfileName("Jhonn Ramirez"),
-            email = ProfileEmail("jhonn@gmail.com"),
-            telefono = ProfileTelefono(92317319),
+            name = ProfileName("Leonardo Camacho Quiroga"),
+            email = ProfileEmail("leonardocamacho@gmial.com"),
+            telefono = ProfileTelefono(77373737227),
             avatarUrl = ProfileAvatarUrl(avatarUrls.random())
         )
 
