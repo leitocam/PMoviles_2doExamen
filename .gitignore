@@ -1,0 +1,15 @@
+# Ignore Android local SDK configuration
+local.properties
+
+# Gradle
+.gradle/
+build/
+
+# IDE
+.idea/
+*.iml
+
+# Misc
+*.keystore
+*.jks
+*.log
